@@ -25,7 +25,7 @@ Haoyang Chen, Richong Zhang, Junfan Chen
 * 🥇 **Gold Medal**, CCPC Guangzhou, 2021
 * 🏅 **5th Place**, Baidu Star Programming Competition National Finals, 2024
 
-## 🎮 Interests
+## 🎮 Game Interests
 
 <p>
   <img src="./assets/arknights.png" width="28" height="28" align="center" />
