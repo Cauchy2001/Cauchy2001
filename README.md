@@ -20,10 +20,12 @@ Haoyang Chen, Richong Zhang, Junfan Chen [AAAI](https://ojs.aaai.org/index.php/A
 
 ## 🏆 Honors & Awards
 
-*  **2nd Place**, CCPC Guilin, 2021
-* 🥇 **Gold Medal**, ICPC Asia Shenyang Regional, 2021
-* 🥇 **Gold Medal**, CCPC Guangzhou, 2021
+* 🥉 **Bronze Medal**, Asia-Pacific Informatics Olympiad (APIO), 2018
+* 🥇 **Gold Medal**, International Collegiate Programming Contest (ICPC) Asia Shenyang Regional, 2021
+* 🥇 **Gold Medal**, China Collegiate Programming Contest (CCPC) Guangzhou, 2021
+* 🏅 **2nd Place**, China Collegiate Programming Contest (CCPC) Guilin, 2021
 * 🏅 **5th Place**, Baidu Star Programming Competition National Finals, 2024
+
 
 ## 🎮 Game Interests
 
