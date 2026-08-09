@@ -25,3 +25,14 @@ Haoyang Chen, Richong Zhang, Junfan Chen
 * 🥇 **Gold Medal**, CCPC Guangzhou, 2021
 * 🏅 **5th Place**, Baidu Star Programming Competition National Finals, 2024
 
+## 🎮 Interests
+
+<p>
+  <img src="./assets/arknights.png" width="28" height="28" align="center" />
+  &nbsp;<strong>Arknights</strong>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./assets/wuthering-waves.png" width="28" height="28" align="center" />
+  &nbsp;<strong>Wuthering Waves</strong>
+</p>
+
+
