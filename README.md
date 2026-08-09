@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Haoyang Chen
 
-<!--
-**Cauchy2001/Cauchy2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in **Large Language Models**, with a primary focus on
+**In-Context Learning (ICL)**.
 
-Here are some ideas to get you started:
+### Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- In-Context Learning
+- Large Language Models
+- Representation and Reasoning
+- Robust and Efficient ICL
+
+### Selected Research
+
+- **Rethinking Label Consistency of In-Context Learning:
+  An Implicit Transductive Label Propagation Perspective**
+  — AAAI 2026
