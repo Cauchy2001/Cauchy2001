@@ -31,7 +31,7 @@ Haoyang Chen, Richong Zhang, Junfan Chen
   <img src="./assets/arknights.png" width="28" height="28" align="center" />
   &nbsp;<strong>Arknights</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./assets/wuthering-waves.png" width="28" height="28" align="center" />
+  <img src="./assets/wuthering-waves.jpeg" width="28" height="28" align="center" />
   &nbsp;<strong>Wuthering Waves</strong>
 </p>
 
